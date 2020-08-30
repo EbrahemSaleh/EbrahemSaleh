@@ -30,5 +30,8 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Css" height="40" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
-   <img src="https://cdn.auth0.com/blog/next3/logo.png" alt="Nextjs" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://buttercms.com/static/images/tech_banners/Nextjs.b8a717322c08.png" alt="Nextjs" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="Graphql" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://reactgo.com/img/gatsbylogo.jpeg" alt="Gatsby" height="40" style="vertical-align:top; margin:4px">
+   
 </p>

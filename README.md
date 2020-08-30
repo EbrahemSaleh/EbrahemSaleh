@@ -40,4 +40,9 @@ Here are some ideas to get you started:
   <img src="https://uploads-ssl.webflow.com/5a2e8a9f7cc425000195064c/5dc44b4155015c062f45cda9_navbar_jamstack.png" alt="JAMstack" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" alt="PWA" height="40" style="vertical-align:top; margin:4px">
     <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Npm" height="40" style="vertical-align:top; margin:4px">
+ 
+ 
 </p>

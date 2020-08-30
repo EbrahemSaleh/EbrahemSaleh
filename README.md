@@ -2,14 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Freelancer
-- 🌱 I’m currently learning ... React js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently developing a web application.
+- 🌱 I’m currently learning Progressive web application , jamstack.
+- 👯 I’m looking to collaborate with anyone on any project.
+- 💬 Ask me about anything.
+- ⚡ Fun fact: I love play football and chess.
 
 -->
 
@@ -17,7 +14,21 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="https://www.linkedin.com/in/ebrahem-saleh-221ab6151/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://mail.google.com/mail/u/0/?tab=wm#inbox"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:salehebrahem487@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
+
+
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Css" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://cdn.auth0.com/blog/next3/logo.png" alt="Nextjs" height="40" style="vertical-align:top; margin:4px">
+</p>

@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently developing a web application.
-- 🌱 I’m currently learning Progressive web application , jamstack.
+- 🌱 I’m currently learning data structures and algorithms.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I love play football and chess.
